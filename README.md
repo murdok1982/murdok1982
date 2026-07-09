@@ -224,19 +224,19 @@ Arquitecto de sistemas C4ISR, OSINT/SOCMINT, ciberseguridad ofensiva y defensiva
 
 ---
 
-## ┌──[ STATS_ANALYTICS ]
+## ┌──[ fsociety ]
+
+<pre align="center">
+"Hello, friend. Hello, friend? That's lame.
+Maybe I should give you a name.
+But that's a slippery slope.
+You're only in my head. We have to remember that."
+
+— Elliot Alderson
+</pre>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murdok1982&show_icons=true&count_private=true&theme=transparent&title_color=00FF41&text_color=C0C0C0&icon_color=00FF41&border_color=30363D&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murdok1982&layout=compact&theme=transparent&title_color=00FF41&text_color=C0C0C0&border_color=30363D&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murdok1982&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=murdok1982&theme=react-dark&hide_border=true&area=true&custom_title=Activity%20Graph&bg_color=0A0A0A&color=00FF41&line=00FF41&point=FF00FF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RhN2w5dW1rdGJ0eTRjdmVsM2JpOG9qbmNobmZpaWo1N3RuZjZtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G4Vq2JYXFTGuQkE2vJ/giphy.gif" width="480" alt="Mr. Robot Hacker GIF" />
 </p>
 
 ---
